@@ -1,4 +1,4 @@
-# Horiseon AccessibilityRefactor
+# Horiseon Accessibility Refactor
 
 
 ## Description
@@ -15,7 +15,7 @@ Go to <br/> https://bikeller104.github.io/01AccessibilityRefactor/  <br/>to acce
 
 
 ## Contributing
-Utah-coding-bootcamp provided the initial code
+Utah Coding-Bootcamp provided the initial code
 
 ## Authors and acknowledgment
 Author: Brent Keller
